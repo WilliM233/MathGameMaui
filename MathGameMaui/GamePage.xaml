@@ -6,31 +6,46 @@
     <VerticalStackLayout
         Padding="200"
         Spacing="25">
-        <Label
+
+        <VerticalStackLayout
+            x:Name="QuestionArea"
+            Spacing="25">
+            <Label
             x:Name="QuestionLabel"
             VerticalOptions="Center"
             HorizontalOptions="Center" 
             FontSize="32"/>
 
-        <Entry
-            x:Name="Answer"
+            <Entry
+            x:Name="AnswerEntry"
             HorizontalOptions="Center">
-        </Entry>
+            </Entry>
 
-        <Button
+            <Button
             x:Name="SubmitAnswer"
             Text="Answer"
             Clicked="OnAnswerSubmitted"
             HorizontalOptions="Center"/>
 
-        <Label
+            <Label
             x:Name="AnswerLabel"
             VerticalOptions="Center"
-            HorizontalOptions="Center"/>
-
+            HorizontalOptions="Center"
+            FontSize="32"/>
+        </VerticalStackLayout>
+        
         <Label
             x:Name="GameOverLabel"
             VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="32"/>
+
+        <Button
+            IsVisible="false"
+            x:Name="BackToMenuBtn"
+            Text="Back to Menu"
+            Clicked="OnBackToMenu"
             HorizontalOptions="Center"/>
+        
     </VerticalStackLayout>
 </ContentPage>
