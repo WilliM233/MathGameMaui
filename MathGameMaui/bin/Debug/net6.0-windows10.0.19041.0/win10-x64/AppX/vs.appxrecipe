@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-24T03:15:47.828</Modified>
+      <Modified>2023-09-24T03:27:59.323</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-24T03:15:47.530</Modified>
+      <Modified>2023-09-24T03:26:03.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MathGameMaui.runtimeconfig.json">
       <PackagePath>MathGameMaui.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MathGameMaui.dll">
       <PackagePath>MathGameMaui.dll</PackagePath>
-      <Modified>2023-09-24T03:15:46.734</Modified>
+      <Modified>2023-09-24T03:27:58.177</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MathGameMaui.exe</PackagePath>
-      <Modified>2023-09-24T03:15:46.743</Modified>
+      <Modified>2023-09-24T03:27:58.187</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\willi\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.13\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1063,7 +1063,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MathGameMaui.deps.json">
       <PackagePath>MathGameMaui.deps.json</PackagePath>
-      <Modified>2023-09-24T03:15:47.714</Modified>
+      <Modified>2023-09-24T03:27:59.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\willi\.nuget\packages\microsoft.maui.controls.ref.win\6.0.548\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

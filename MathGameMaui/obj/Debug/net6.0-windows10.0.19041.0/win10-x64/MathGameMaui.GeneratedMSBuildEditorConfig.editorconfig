@@ -22,11 +22,23 @@ build_metadata.AdditionalFiles.ManifestResourceName = MathGameMaui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[D:/Projects/Portfolio/MathGameMaui/MathGameMaui/GamePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathGameMaui.GamePage.xaml
+build_metadata.AdditionalFiles.TargetPath = GamePage.xaml
+build_metadata.AdditionalFiles.RelativePath = GamePage.xaml
+
 [D:/Projects/Portfolio/MathGameMaui/MathGameMaui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MathGameMaui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Projects/Portfolio/MathGameMaui/MathGameMaui/PreviousGames.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathGameMaui.PreviousGames.xaml
+build_metadata.AdditionalFiles.TargetPath = PreviousGames.xaml
+build_metadata.AdditionalFiles.RelativePath = PreviousGames.xaml
 
 [D:/Projects/Portfolio/MathGameMaui/MathGameMaui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
