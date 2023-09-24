@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MathGameMaui.GamePage"
-             Title="GamePage">
+             x:Class="MathGameMaui.GamePage">
     <VerticalStackLayout
         Padding="200"
         Spacing="25">
@@ -14,18 +13,22 @@
             x:Name="QuestionLabel"
             VerticalOptions="Center"
             HorizontalOptions="Center" 
-            FontSize="32"/>
+            FontSize="80"/>
 
             <Entry
             x:Name="AnswerEntry"
-            HorizontalOptions="Center">
+            HorizontalOptions="Center"
+            BackgroundColor="DarkOliveGreen"
+            FontSize="50"
+            TextColor="White">
             </Entry>
 
             <Button
             x:Name="SubmitAnswer"
             Text="Answer"
             Clicked="OnAnswerSubmitted"
-            HorizontalOptions="Center"/>
+            HorizontalOptions="Center"
+            FontSize="32"/>
 
             <Label
             x:Name="AnswerLabel"
@@ -38,7 +41,7 @@
             x:Name="GameOverLabel"
             VerticalOptions="Center"
             HorizontalOptions="Center"
-            FontSize="32"/>
+            FontSize="50"/>
 
         <Button
             IsVisible="false"

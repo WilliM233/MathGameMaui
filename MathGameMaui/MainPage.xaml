@@ -10,43 +10,44 @@
             >
             <Label
                 Text="Welcome to the Math Game!"
-                FontSize="32"
+                FontSize="50"
                 HorizontalOptions="Center"/>
             <Label
                 Text="What game would you like to play?"
-                FontSize="32"
+                FontSize="50"
                 HorizontalOptions="Center"/>
 
-            <Grid>
-                <Grid.RowDefinitions>
-                    <RowDefinition />
-                    <RowDefinition />
-                </Grid.RowDefinitions>
+            <Grid RowDefinitions="*,150"
+                  ColumnDefinitions="*,*,*,*">
 
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition />
-                    <ColumnDefinition />
-                    <ColumnDefinition />
-                    <ColumnDefinition />
-                </Grid.ColumnDefinitions>
-                
                 <Button Grid.Column="0"
-                        Text="Addition"
-                        Clicked="OnGameChosen"/>
+                        Text="+"
+                        Clicked="OnGameChosen"
+                        MaximumWidthRequest="100"
+                        FontSize="60"/>
                 <Button Grid.Column="1"
-                        Text="Subtraction"
-                        Clicked="OnGameChosen"/>
+                        Text="-"
+                        Clicked="OnGameChosen"
+                        MaximumWidthRequest="100"
+                        FontSize="60"/>
                 <Button Grid.Column="2"
-                        Text="Multiplication"
-                        Clicked="OnGameChosen"/>
+                        Text="×"
+                        Clicked="OnGameChosen"
+                        MaximumWidthRequest="100"
+                        FontSize="60"/>
                 <Button Grid.Column="3"
-                        Text="Division"
-                        Clicked="OnGameChosen"/>
+                        Text="÷"
+                        Clicked="OnGameChosen"
+                        MaximumWidthRequest="100"
+                        FontSize="60"/>
                 <Button Grid.Row="1"
                         Grid.ColumnSpan="4"
                         BackgroundColor="ForestGreen"
                         Text="View Previous Games"
-                        Clicked="OnViewPreviousGamesChosen"/>
+                        Clicked="OnViewPreviousGamesChosen"
+                        MaximumWidthRequest="350"
+                        MaximumHeightRequest="70"
+                        FontSize="32"/>
             </Grid>
         </VerticalStackLayout>
     </ContentView>

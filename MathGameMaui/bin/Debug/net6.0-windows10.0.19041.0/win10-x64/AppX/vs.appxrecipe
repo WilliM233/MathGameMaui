@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-24T13:32:13.152</Modified>
+      <Modified>2023-09-24T13:56:07.184</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-24T13:24:00.996</Modified>
+      <Modified>2023-09-24T13:51:44.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MathGameMaui.runtimeconfig.json">
       <PackagePath>MathGameMaui.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MathGameMaui.dll">
       <PackagePath>MathGameMaui.dll</PackagePath>
-      <Modified>2023-09-24T13:32:12.099</Modified>
+      <Modified>2023-09-24T13:56:06.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MathGameMaui.exe</PackagePath>
-      <Modified>2023-09-24T13:32:12.106</Modified>
+      <Modified>2023-09-24T13:56:06.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\willi\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.13\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1087,7 +1087,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MathGameMaui.deps.json">
       <PackagePath>MathGameMaui.deps.json</PackagePath>
-      <Modified>2023-09-24T13:32:13.035</Modified>
+      <Modified>2023-09-24T13:56:07.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\willi\.nuget\packages\microsoft.maui.controls.ref.win\6.0.548\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1124,6 +1124,10 @@
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-09-24T02:55:25.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\CaveatBrush-Regular.ttf">
+      <PackagePath>CaveatBrush-Regular.ttf</PackagePath>
+      <Modified>2022-09-22T05:27:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\Portfolio\MathGameMaui\MathGameMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
