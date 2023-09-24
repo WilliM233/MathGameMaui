@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KA+JYMpHZ5ucCrBcGmqy9nEHUo6lfz5cjwV6Xh0gRDfxug1SnxcBaVDLWeit4m1eLbn7qoqhMdcX7yetzMFnTA==",
+  "dgSpecHash": "cxr/Ow1bTPG0Z2OBjc2t2F0KjNvCRZEfJqrOMra5il0qsVFA76JL7AH5lF79ns6h1AUyDK4luX6UbsWpuiRrnA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Portfolio\\MathGameMaui\\MathGameMaui\\MathGameMaui.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,13 @@
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\6.0.501\\microsoft.maui.graphics.win2d.winui.desktop.6.0.501.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.3\\microsoft.windowsappsdk.1.1.3.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.maui.essentials.ref.win\\6.0.548\\microsoft.maui.essentials.ref.win.6.0.548.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.maui.core.runtime.win\\6.0.548\\microsoft.maui.core.runtime.win.6.0.548.nupkg.sha512",

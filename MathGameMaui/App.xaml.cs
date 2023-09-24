@@ -1,8 +1,11 @@
-﻿namespace MathGameMaui;
+﻿using MathGameMaui.Data;
+
+namespace MathGameMaui;
 
 public partial class App : Application
 {
-	public App()
+	public static GameRepository GameRepository { get; private set; }
+	public App(GameRepository gameRepository)
 	{
 		InitializeComponent();
 
@@ -10,5 +13,7 @@ public partial class App : Application
 
 		// forces light mode
 		Application.Current.UserAppTheme = AppTheme.Light;
+
+		GameRepository = gameRepository;
 	}
 }
